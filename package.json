@@ -2,10 +2,10 @@
   "name": "counterv0local",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "devStart": "nodemon index.js"
+    "devStart": "nodemon server.js"
   },
   "type": "module",
   "author": "",
